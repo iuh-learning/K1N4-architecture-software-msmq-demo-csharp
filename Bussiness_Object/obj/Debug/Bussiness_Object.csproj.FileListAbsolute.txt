@@ -1,0 +1,8 @@
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\Bussiness_Object\obj\Debug\Bussiness_Object.csproj.AssemblyReference.cache
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\Bussiness_Object\obj\Debug\Bussiness_Object.csproj.SuggestedBindingRedirects.cache
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\Bussiness_Object\obj\Debug\Bussiness_Object.csproj.CoreCompileInputs.cache
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\Bussiness_Object\bin\Debug\Bussiness_Object.exe.config
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\Bussiness_Object\bin\Debug\Bussiness_Object.exe
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\Bussiness_Object\bin\Debug\Bussiness_Object.pdb
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\Bussiness_Object\obj\Debug\Bussiness_Object.exe
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\Bussiness_Object\obj\Debug\Bussiness_Object.pdb

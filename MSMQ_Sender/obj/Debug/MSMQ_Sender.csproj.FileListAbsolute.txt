@@ -1,0 +1,15 @@
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\MSMQ_Sender\bin\Debug\MSMQ_Sender.exe.config
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\MSMQ_Sender\bin\Debug\MSMQ_Sender.exe
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\MSMQ_Sender\bin\Debug\MSMQ_Sender.pdb
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\MSMQ_Sender\obj\Debug\MSMQ_Sender.csproj.AssemblyReference.cache
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\MSMQ_Sender\obj\Debug\MSMQ_Sender.csproj.SuggestedBindingRedirects.cache
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\MSMQ_Sender\obj\Debug\MSMQ_Sender.frmSender.resources
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\MSMQ_Sender\obj\Debug\MSMQ_Sender.Properties.Resources.resources
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\MSMQ_Sender\obj\Debug\MSMQ_Sender.csproj.GenerateResource.cache
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\MSMQ_Sender\obj\Debug\MSMQ_Sender.csproj.CoreCompileInputs.cache
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\MSMQ_Sender\obj\Debug\MSMQ_Sender.exe
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\MSMQ_Sender\obj\Debug\MSMQ_Sender.pdb
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\MSMQ_Sender\bin\Debug\Bussiness_Object.exe
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\MSMQ_Sender\bin\Debug\Bussiness_Object.pdb
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\MSMQ_Sender\bin\Debug\Bussiness_Object.exe.config
+F:\IUH.STUDY\K1N4_2022\KTTKPM\workspace\MSMQ_Demo\MSMQ_Sender\obj\Debug\MSMQ_Sender.csproj.CopyComplete
